@@ -1,0 +1,4 @@
+/server/.env
+/client/README.md
+/client/.gitignore
+node_modules
